@@ -2,7 +2,7 @@ import json
 import zipfile
 import os
 
-api_token=  {"username":"miguelngelmerabarco","key":"a8d653109d617072749f4476c8a25d14"} ##Contenido de archivo kaggle.json
+api_token=  {"username":"miguelngelmerabarco","key":"77e06cd53e189c730775702fb5ba5580"} ##Contenido de archivo kaggle.json
 
 ##Conectar a kaggle
 
